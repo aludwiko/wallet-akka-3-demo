@@ -1,0 +1,6 @@
+name: wallet
+service:
+  telemetry:
+    tracing:
+      enabled: true
+  image: kcr.us-east-1.kalix.io/lightbend-eng/wallet-redge/wallet:1.0-SNAPSHOT-20250422083838
